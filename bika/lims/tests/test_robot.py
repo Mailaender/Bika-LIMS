@@ -6,12 +6,13 @@ import unittest
 
 
 ROBOT_TESTS = [
-    'test_bika_setup.robot',
-    'test_Client.robot'
-    'test_Batch.robot',
+    'test_AR_manage_analyses.robot',
     'test_AnalysisRequest.robot',
-    'test_bika_Worksheets.robot',
+    'test_Batch.robot',
+    'test_Client.robot'
     'test_ShowPartitions.robot',
+    'test_bika_Worksheets.robot',
+    'test_bika_setup.robot'
 ]
 
 
